@@ -27,6 +27,10 @@ Flask RESTX
 
 Flask-RESTX is a community driven fork of `Flask-RESTPlus <https://github.com/noirbizarre/flask-restplus>`_.
 
+**In this fork, the flask-restx/static folder was added to the project source code(in the original repository
+it was created dynamically during installation and release).
+This is done for the convenience of installing the library directly from GitHub**
+
 
 Flask-RESTX is an extension for `Flask`_ that adds support for quickly building REST APIs.
 Flask-RESTX encourages best practices with minimal setup.
